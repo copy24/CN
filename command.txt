@@ -1,0 +1,27 @@
+ipconfig
+dir
+netstat
+ping google.com
+tasklist
+arp -a
+getmac
+systeminfo
+tracert
+help
+powercfg /batteryreport
+sfc /scannow
+taskkill
+chkdsk
+________________________________________________________________________________
+
+mkdir
+rmdir
+ls
+touch hello.txt
+head hello.txt
+tail hello.txt
+pwd
+which grep
+w
+id
+df
